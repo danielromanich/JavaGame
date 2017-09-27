@@ -1,6 +1,6 @@
-package com.daniel.adventure;
+package com.game;
 
-import com.daniel.adventure.util.Data;
+import com.game.util.Data;
 
 public class GameThread extends Thread implements Runnable {
 	
@@ -20,7 +20,7 @@ public class GameThread extends Thread implements Runnable {
 			}
 			long delta = System.currentTimeMillis() - start;
 			try {
-				Thread.sleep(1000/Data.PHYSICS_FPS - delta < 0 ? 0 : 1000/Data.PHYSICS_FPS - delta);
+				Thread.sleep(1000/ Data.PHYSICS_FPS - delta < 0 ? 0 : 1000/Data.PHYSICS_FPS - delta);
 			} catch (InterruptedException e) {}
 		}
 	}

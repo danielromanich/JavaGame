@@ -1,12 +1,12 @@
-package com.daniel.adventure.entity.entities;
+package com.game.entity.entities;
 
 import java.awt.Image;
 import java.util.ArrayList;
 
-import com.daniel.adventure.Game;
-import com.daniel.adventure.entity.PhysicsEntity;
-import com.daniel.adventure.landscape.Collision;
-import com.daniel.adventure.res.ResourceLoader;
+import com.game.Game;
+import com.game.entity.PhysicsEntity;
+import com.game.landscape.Collision;
+import com.game.res.ResourceLoader;
 
 public class DeadTurtle extends PhysicsEntity {
 	

@@ -1,9 +1,9 @@
-package com.daniel.adventure.entity;
+package com.game.entity;
 
 import java.awt.Graphics;
 import java.util.ArrayList;
 
-import com.daniel.adventure.Game;
+import com.game.Game;
 
 public class Entities {
 	

@@ -1,14 +1,14 @@
-package com.daniel.adventure.entity.collisionentities;
+package com.game.entity.collisionentities;
 
 import java.awt.Image;
 
-import com.daniel.adventure.Game;
-import com.daniel.adventure.entity.CollisionEntity;
-import com.daniel.adventure.entity.PhysicsEntity;
-import com.daniel.adventure.landscape.Collision;
-import com.daniel.adventure.res.ResourceLoader;
-import com.daniel.adventure.util.Data;
-import com.daniel.adventure.util.Position;
+import com.game.Game;
+import com.game.entity.CollisionEntity;
+import com.game.entity.PhysicsEntity;
+import com.game.landscape.Collision;
+import com.game.res.ResourceLoader;
+import com.game.util.Data;
+import com.game.util.Position;
 
 public class MovingUpPlatform extends CollisionEntity {
 

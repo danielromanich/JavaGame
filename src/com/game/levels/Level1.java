@@ -1,15 +1,15 @@
-package com.daniel.adventure.levels;
+package com.game.levels;
 
-import com.daniel.adventure.GameCore;
-import com.daniel.adventure.Level;
-import com.daniel.adventure.entity.collisionentities.MovingUpPlatform;
-import com.daniel.adventure.entity.entities.FlyingTurtle;
-import com.daniel.adventure.entity.entities.Ghost;
-import com.daniel.adventure.entity.objects.MysteryBox;
-import com.daniel.adventure.landscape.Tile;
-import com.daniel.adventure.landscape.TileType;
-import com.daniel.adventure.util.Data;
-import com.daniel.adventure.util.Position;
+import com.game.GameCore;
+import com.game.Level;
+import com.game.entity.collisionentities.MovingUpPlatform;
+import com.game.entity.entities.FlyingTurtle;
+import com.game.entity.entities.Ghost;
+import com.game.entity.objects.MysteryBox;
+import com.game.landscape.Tile;
+import com.game.landscape.TileType;
+import com.game.util.Data;
+import com.game.util.Position;
 
 public class Level1 extends Level {
 	

@@ -1,13 +1,13 @@
-package com.daniel.adventure.graphic.stages;
+package com.game.graphic.stages;
 
 import java.awt.Graphics;
 import java.awt.event.KeyEvent;
 import java.awt.event.MouseEvent;
 import javax.swing.JButton;
 
-import com.daniel.adventure.GameCore;
-import com.daniel.adventure.graphic.Stage;
-import com.daniel.adventure.res.ResourceLoader;
+import com.game.GameCore;
+import com.game.graphic.Stage;
+import com.game.res.ResourceLoader;
 
 public class MainMenuStage extends Stage {
 	

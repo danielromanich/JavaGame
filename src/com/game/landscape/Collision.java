@@ -1,11 +1,11 @@
-package com.daniel.adventure.landscape;
+package com.game.landscape;
 
 import java.awt.Rectangle;
 
-import com.daniel.adventure.entity.GameObject;
-import com.daniel.adventure.entity.PhysicsEntity;
-import com.daniel.adventure.util.Data;
-import com.daniel.adventure.util.Position;
+import com.game.entity.GameObject;
+import com.game.entity.PhysicsEntity;
+import com.game.util.Data;
+import com.game.util.Position;
 
 public class Collision {
 	

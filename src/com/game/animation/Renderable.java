@@ -1,9 +1,9 @@
-package com.daniel.adventure.animation;
+package com.game.animation;
 
 import java.awt.Graphics;
 import java.awt.Image;
 
-import com.daniel.adventure.landscape.Camera;
+import com.game.landscape.Camera;
 
 public interface Renderable {
 	

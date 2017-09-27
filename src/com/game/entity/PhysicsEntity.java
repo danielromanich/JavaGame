@@ -1,14 +1,14 @@
-package com.daniel.adventure.entity;
+package com.game.entity;
 
 import java.awt.Graphics;
 import java.awt.Image;
 import java.awt.Rectangle;
 
-import com.daniel.adventure.Game;
-import com.daniel.adventure.landscape.Camera;
-import com.daniel.adventure.landscape.Collision;
-import com.daniel.adventure.util.Data;
-import com.daniel.adventure.util.Position;
+import com.game.Game;
+import com.game.landscape.Camera;
+import com.game.landscape.Collision;
+import com.game.util.Data;
+import com.game.util.Position;
 
 public class PhysicsEntity extends Entity {
 	

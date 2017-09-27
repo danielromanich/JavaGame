@@ -1,9 +1,9 @@
-package com.daniel.adventure.landscape;
+package com.game.landscape;
 
-import com.daniel.adventure.Game;
-import com.daniel.adventure.entity.Entity;
-import com.daniel.adventure.util.Data;
-import com.daniel.adventure.util.Position;
+import com.game.Game;
+import com.game.entity.Entity;
+import com.game.util.Data;
+import com.game.util.Position;
 
 public class Landscape {
 	

@@ -1,9 +1,9 @@
-package com.daniel.adventure;
+package com.game;
 
-import com.daniel.adventure.graphic.GameClient;
-import com.daniel.adventure.graphic.GameRenderer;
-import com.daniel.adventure.input.Keyboard;
-import com.daniel.adventure.util.Settings;
+import com.game.graphic.GameClient;
+import com.game.graphic.GameRenderer;
+import com.game.input.Keyboard;
+import com.game.util.Settings;
 
 public class GameCore {
 	

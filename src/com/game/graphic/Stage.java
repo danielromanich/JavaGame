@@ -1,4 +1,4 @@
-package com.daniel.adventure.graphic;
+package com.game.graphic;
 
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
@@ -7,7 +7,7 @@ import java.awt.event.MouseListener;
 
 import javax.swing.JPanel;
 
-import com.daniel.adventure.GameCore;
+import com.game.GameCore;
 
 public abstract class Stage extends JPanel implements KeyListener, MouseListener {
 	

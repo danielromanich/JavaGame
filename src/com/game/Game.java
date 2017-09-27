@@ -1,12 +1,12 @@
-package com.daniel.adventure;
+package com.game;
 
-import com.daniel.adventure.entity.Entities;
-import com.daniel.adventure.entity.GameObjects;
-import com.daniel.adventure.entity.entities.Player;
-import com.daniel.adventure.landscape.Camera;
-import com.daniel.adventure.landscape.Landscape;
-import com.daniel.adventure.util.Data;
-import com.daniel.adventure.util.Settings;
+import com.game.entity.Entities;
+import com.game.entity.GameObjects;
+import com.game.entity.entities.Player;
+import com.game.landscape.Camera;
+import com.game.landscape.Landscape;
+import com.game.util.Data;
+import com.game.util.Settings;
 
 public class Game {
 		

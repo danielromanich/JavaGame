@@ -1,10 +1,10 @@
-package com.daniel.adventure.landscape;
+package com.game.landscape;
 
 import java.awt.Rectangle;
 
-import com.daniel.adventure.entity.Entity;
-import com.daniel.adventure.util.Data;
-import com.daniel.adventure.util.Position;
+import com.game.entity.Entity;
+import com.game.util.Data;
+import com.game.util.Position;
 
 public class Camera {
 	

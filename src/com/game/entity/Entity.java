@@ -1,10 +1,10 @@
-package com.daniel.adventure.entity;
+package com.game.entity;
 
 import java.awt.Graphics;
 
-import com.daniel.adventure.animation.Animateable;
-import com.daniel.adventure.landscape.Camera;
-import com.daniel.adventure.util.Position;
+import com.game.animation.Animateable;
+import com.game.landscape.Camera;
+import com.game.util.Position;
 
 public class Entity extends Animateable {
 	

@@ -1,4 +1,4 @@
-package com.daniel.adventure.graphic;
+package com.game.graphic;
 
 import java.awt.Component;
 import java.awt.event.ComponentEvent;
@@ -7,13 +7,13 @@ import java.awt.event.WindowEvent;
 import java.awt.event.WindowListener;
 
 import javax.swing.JFrame;
-import com.daniel.adventure.GameCore;
-import com.daniel.adventure.graphic.stages.GameStage;
-import com.daniel.adventure.graphic.stages.HelpStage;
-import com.daniel.adventure.graphic.stages.MainMenuStage;
-import com.daniel.adventure.graphic.stages.SettingsStage;
-import com.daniel.adventure.levels.Level1;
-import com.daniel.adventure.util.Data;
+import com.game.GameCore;
+import com.game.graphic.stages.GameStage;
+import com.game.graphic.stages.HelpStage;
+import com.game.graphic.stages.MainMenuStage;
+import com.game.graphic.stages.SettingsStage;
+import com.game.levels.Level1;
+import com.game.util.Data;
 
 public class GameClient extends JFrame {
 

@@ -1,6 +1,6 @@
-package com.daniel.adventure;
+package com.game;
 
-import com.daniel.adventure.entity.entities.Player;
+import com.game.entity.entities.Player;
 
 public class GameController {
 	

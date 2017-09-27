@@ -1,4 +1,4 @@
-package com.daniel.adventure.util;
+package com.game.util;
 
 public class Settings {
 	

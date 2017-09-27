@@ -1,4 +1,4 @@
-package com.daniel.adventure.res;
+package com.game.res;
 
 import java.awt.Image;
 import java.io.File;

@@ -1,8 +1,8 @@
-package com.daniel.adventure.input;
+package com.game.input;
 
 import java.awt.event.KeyEvent;
 
-import com.daniel.adventure.GameCore;
+import com.game.GameCore;
 
 public class Keyboard {
 	

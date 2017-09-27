@@ -1,13 +1,13 @@
-package com.daniel.adventure.entity.objects;
+package com.game.entity.objects;
 
 import java.awt.Image;
 
-import com.daniel.adventure.Game;
-import com.daniel.adventure.entity.GameObject;
-import com.daniel.adventure.entity.PhysicsEntity;
-import com.daniel.adventure.entity.entities.Player;
-import com.daniel.adventure.res.ResourceLoader;
-import com.daniel.adventure.util.Position;
+import com.game.Game;
+import com.game.entity.GameObject;
+import com.game.entity.PhysicsEntity;
+import com.game.entity.entities.Player;
+import com.game.res.ResourceLoader;
+import com.game.util.Position;
 
 public class MysteryBox extends GameObject {
 

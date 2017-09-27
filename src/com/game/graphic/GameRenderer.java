@@ -1,12 +1,12 @@
-package com.daniel.adventure.graphic;
+package com.game.graphic;
 
 import java.awt.Color;
 import java.awt.Graphics;
-import com.daniel.adventure.GameCore;
-import com.daniel.adventure.landscape.Tile;
-import com.daniel.adventure.res.ResourceLoader;
-import com.daniel.adventure.util.Data;
-import com.daniel.adventure.util.Position;
+import com.game.GameCore;
+import com.game.landscape.Tile;
+import com.game.res.ResourceLoader;
+import com.game.util.Data;
+import com.game.util.Position;
 
 public class GameRenderer {
 	

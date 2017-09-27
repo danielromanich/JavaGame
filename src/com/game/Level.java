@@ -1,8 +1,8 @@
-package com.daniel.adventure;
+package com.game;
 
 import java.awt.Image;
 
-import com.daniel.adventure.res.ResourceLoader;
+import com.game.res.ResourceLoader;
 
 public class Level {
 	

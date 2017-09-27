@@ -1,7 +1,7 @@
-package com.daniel.adventure.graphic.stages;
+package com.game.graphic.stages;
 
-import com.daniel.adventure.GameCore;
-import com.daniel.adventure.graphic.Stage;
+import com.game.GameCore;
+import com.game.graphic.Stage;
 
 public class LevelSelect extends Stage {
 

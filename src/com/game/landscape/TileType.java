@@ -1,6 +1,6 @@
-package com.daniel.adventure.landscape;
+package com.game.landscape;
 
-import com.daniel.adventure.util.Position;
+import com.game.util.Position;
 
 public enum TileType {
 	

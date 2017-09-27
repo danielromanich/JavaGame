@@ -1,8 +1,8 @@
-package com.daniel.adventure.entity;
+package com.game.entity;
 import java.util.ArrayList;
 
-import com.daniel.adventure.Game;
-import com.daniel.adventure.landscape.Collision;
+import com.game.Game;
+import com.game.landscape.Collision;
 
 public class CollisionEntity extends PhysicsEntity {
 	

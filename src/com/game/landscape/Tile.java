@@ -1,8 +1,8 @@
-package com.daniel.adventure.landscape;
+package com.game.landscape;
 
 import java.util.ArrayList;
 
-import com.daniel.adventure.util.Position;
+import com.game.util.Position;
 
 public class Tile {
 	

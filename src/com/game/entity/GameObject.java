@@ -1,9 +1,9 @@
-package com.daniel.adventure.entity;
+package com.game.entity;
 
 import java.awt.Rectangle;
 
-import com.daniel.adventure.Game;
-import com.daniel.adventure.util.Position;
+import com.game.Game;
+import com.game.util.Position;
 
 public abstract class GameObject extends Entity {
 	
